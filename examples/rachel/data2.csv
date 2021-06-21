@@ -1,0 +1,6 @@
+,,GPT-2,GPT-2,GPT-2,WebText,WebText,WebText,Total,Total,Total
+,,Words,Ranks,"$\alpha,\beta$",Words,Ranks,"$\alpha,\beta$",Words,Ranks,"$\alpha,\beta$"
+Small,1000,0.44,0.64,0.62,0.68,0.58,0.76,0.56,0.61,0.69
+Small,10000,0.89,0.92,0.99,0.96,0.97,1,0.93,0.95,1
+Medium,1000,0.57,0.43,0.72,0.48,0.6,0.64,0.53,0.52,0.68
+Medium,10000,.77,.74,.94,.76,.77,1,.77,.76,
